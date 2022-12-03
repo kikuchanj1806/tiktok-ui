@@ -4,7 +4,7 @@
   align-items: center;
 }
 .container {
-  width: 1150px;
+  width: var(--default-layout-width-content);
   display: flex;
 }
 .content {
